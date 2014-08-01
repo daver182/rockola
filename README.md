@@ -1,6 +1,7 @@
-# Rockola
+Rockola
+=========
 
-Para hacerla funcionar hay que hacer algunas cosas:
+## Para hacerla funcionar hay que hacer algunas cosas:
 
 	npm install
 	bower install
